@@ -1,0 +1,1 @@
+"Tic Tac Toe is a universally recognized game enjoyed by people of all ages. In this project, I've recreated the classic game with full functionality akin to online versions. Using a combination of HTML, CSS, and JavaScript, I've developed a web-based implementation that allows players to engage in the timeless challenge of Tic Tac Toe."
